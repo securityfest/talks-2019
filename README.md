@@ -9,3 +9,5 @@ Hanno Böck - [Don't Sniff the MIME](Dont_Sniff_the_MIME_-_File_Upload_XSS_vulne
 Hugo Hirsh - [Trust and Sugar](Trust_and_Sugar.pdf) - https://www.youtube.com/watch?v=0pYmUy36T6Y
 
 Himanshu Mehta - [RF Exploitation! Demystifying IoT OT hacks with SDR](HimanshuMehta.pdf) - https://www.youtube.com/watch?v=UVRuKxlSaTU
+
+Alex Inführ - [Exploring Macros in (Open|Libre)office](Alex_Infuhr_Libreoffice.pdf) - https://www.youtube.com/watch?v=a_aZ8uthCCo
