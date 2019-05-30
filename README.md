@@ -11,3 +11,7 @@ Hugo Hirsh - [Trust and Sugar](Trust_and_Sugar.pdf) - https://www.youtube.com/wa
 Himanshu Mehta - [RF Exploitation! Demystifying IoT OT hacks with SDR](HimanshuMehta.pdf) - https://www.youtube.com/watch?v=UVRuKxlSaTU
 
 Alex Inführ - [Exploring Macros in (Open|Libre)office](Alex_Infuhr_Libreoffice.pdf) - https://www.youtube.com/watch?v=a_aZ8uthCCo
+
+Calle Svensson - [Software Obfuscation with LLVM](LLVM_Svensson.pdf) - https://www.youtube.com/watch?v=bQpPdT7RDqQ
+
+Denis Kolegov - [A dive in to SD-WAN Insecure Designs and Vulnerabilities](Kolegov.pdf) - Not recorded
