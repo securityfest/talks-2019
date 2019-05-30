@@ -10,3 +10,4 @@
 | Alex Inführ | [Exploring Macros in (Open\|Libre)office](Alex_Infuhr_Libreoffice.pdf) | https://www.youtube.com/watch?v=a_aZ8uthCCo| 
 | Calle Svensson | [Software Obfuscation with LLVM](LLVM_Svensson.pdf) | https://www.youtube.com/watch?v=bQpPdT7RDqQ |
 | Denis Kolegov | [A dive in to SD-WAN Insecure Designs and Vulnerabilities](Kolegov.pdf) | Not recorded |
+| Olle Segerdahl | [DOMXSS is not Dead](olle_domxss.pdf) | https://www.youtube.com/watch?v=A2ay7tEANjQ |
