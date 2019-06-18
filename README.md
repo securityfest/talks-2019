@@ -12,4 +12,5 @@
 | Denis Kolegov | [A dive in to SD-WAN Insecure Designs and Vulnerabilities](Kolegov.pdf) | Not recorded |
 | Olle Segerdahl | [DOMXSS is not Dead](olle_domxss.pdf) | https://www.youtube.com/watch?v=A2ay7tEANjQ |
 | Dave Lewis | [Zero Trust & The Flaming Sword of Justice!](FlamingSword.pdf) | https://www.youtube.com/watch?v=4blfJIGyiK8 |
-| Shira Shamban | [Is your internet down? It’s cyber warfare, stupid!](Shira_Shamban.pdf) | https://www.youtube.com/watch?v=5VTvY7FRqmY | 
+| Shira Shamban | [Is your internet down? It’s cyber warfare, stupid!](Shira_Shamban.pdf) | https://www.youtube.com/watch?v=5VTvY7FRqmY |
+| Samit Anwer | [Samit Anwer - Oh! Auth Implementation pitfalls & the Auth Providers who have fell](Samit_Anwer_Oauth.pdf) | https://www.youtube.com/watch?v=P0AAxreQaug | 
