@@ -14,4 +14,4 @@
 | Dave Lewis | [Zero Trust & The Flaming Sword of Justice!](slides/FlamingSword.pdf) | https://www.youtube.com/watch?v=4blfJIGyiK8 |
 | Shira Shamban | [Is your internet down? It’s cyber warfare, stupid!](slides/Shira_Shamban.pdf) | https://www.youtube.com/watch?v=5VTvY7FRqmY |
 | Samit Anwer | [Samit Anwer - Oh! Auth Implementation pitfalls & the Auth Providers who have fell](slides/Samit_Anwer_Oauth.pdf) | https://www.youtube.com/watch?v=P0AAxreQaug | 
-| David Fiser | [Falling Out of the Sky Security Risks that can Bring Your Cloud Down to the Ground](slides/404) | https://www.youtube.com/watch?v=NI1N_yjH7dc | 
+| David Fiser | [Falling Out of the Sky Security Risks that can Bring Your Cloud Down to the Ground](slides/David_Fiser_falling_out.pdf) | https://www.youtube.com/watch?v=NI1N_yjH7dc | 
