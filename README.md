@@ -8,7 +8,7 @@
 | Hugo Hirsh | [Trust and Sugar](slides/Trust_and_Sugar.pdf) | https://www.youtube.com/watch?v=0pYmUy36T6Y |
 | Himanshu Mehta | [RF Exploitation! Demystifying IoT OT hacks with SDR](HimanshuMehta.pdf) | https://www.youtube.com/watch?v=UVRuKxlSaTU |
 | Alex Inführ | [Exploring Macros in (Open\|Libre)office](slides/Alex_Infuhr_Libreoffice.pdf) | https://www.youtube.com/watch?v=a_aZ8uthCCo| 
-| Calle Svensson | [Software Obfuscation with LLVM](slides/LLVM_Svensson.pdf) | https://www.youtube.com/watch?v=bQpPdT7RDqQ |
+| Calle Svensson | [Software Obfuscation with LLVM](slides/LLVM_Svensson.pdf) | https://www.youtube.com/watch?v=bQpPdT7RDqQ ([Errata](https://zeta-two.com/education/2019/06/27/securityfest19-talk.html)) |
 | Denis Kolegov | [A dive in to SD-WAN Insecure Designs and Vulnerabilities](Kolegov.pdf) | Not recorded |
 | Olle Segerdahl | [DOMXSS is not Dead](slides/olle_domxss.pdf) | https://www.youtube.com/watch?v=A2ay7tEANjQ |
 | Dave Lewis | [Zero Trust & The Flaming Sword of Justice!](slides/FlamingSword.pdf) | https://www.youtube.com/watch?v=4blfJIGyiK8 |
